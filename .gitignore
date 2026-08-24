@@ -1,0 +1,4 @@
+**/.venv/
+.vscode/
+**/__pyvache__/
+**/.ipynb_checkpoints/
